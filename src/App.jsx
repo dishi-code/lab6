@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>welcome to Gh-pages</h1>
+      <h1>welcome to Gh-pages gh</h1>
     </>
   )
 }
